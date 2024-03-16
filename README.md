@@ -5,6 +5,8 @@ With the removal of the classic dirt background in snapshot 24w09a for 1.20.5, t
 
 If the resource pack format changes in a minor version, a new panorama will be released along it.
 
+Remember to unzip the file!
+
 [PlanetMinecraft Download](https://www.planetminecraft.com/texture-pack/3a-s-custom-panoramas/) | [Modrinth Download](https://modrinth.com/resourcepack/3as-custom-panoramas)
 
 Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en).
